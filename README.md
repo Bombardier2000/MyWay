@@ -10,17 +10,17 @@
 |[:scroll:](https://www.coursera.org/account/accomplishments/records/8PEBN28YUXZC)|- Математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/account/accomplishments/records/G75BKCHUUH2F)|- Обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/account/accomplishments/records/ZULA5KY5GNBH)|- Поиск структуры в данных|[Coursera](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)||
-|:hourglass_flowing_sand:|- Построение выводов по данным|[Coursera](https://www.coursera.org/learn/stats-for-data-analysis?specialization=machine-learning-data-analysis)||
-|:hourglass_flowing_sand:|- Прикладные задачи анализа данных|[Coursera](https://www.coursera.org/learn/data-analysis-applications)||
-|:hourglass_flowing_sand:|- Анализ данных: финальный проект|[Coursera](https://www.coursera.org/learn/data-analysis-project)||
+|:hourglass_flowing_sand:|- построение выводов по данным|[Coursera](https://www.coursera.org/learn/stats-for-data-analysis?specialization=machine-learning-data-analysis)||
+|:hourglass_flowing_sand:|- прикладные задачи анализа данных|[Coursera](https://www.coursera.org/learn/data-analysis-applications)||
+|:hourglass_flowing_sand:|- анализ данных: финальный проект|[Coursera](https://www.coursera.org/learn/data-analysis-project)||
 |:hourglass_flowing_sand:|**Современное машинное обучение**|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
 |:hourglass_flowing_sand:|- Python для автоматизации и анализа данных, математика для анализа данных, машинное обучение, работа с большими данными, глубинное обучение|||
 |:hourglass_flowing_sand:|- итоговый проект|||
 |:hourglass_flowing_sand:|**Специалист по Data Science**|[Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist/)|[:octocat:](https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum-2020)|
 |:hourglass_flowing_sand:|**Промышленное машинное обучение**|[Coursera](https://www.coursera.org/specializations/industrial-machine-learning)||
-|:hourglass_flowing_sand:|- Обработка больших данных|[Coursera](https://www.coursera.org/learn/big-data-processing/home/welcome)||
-|:hourglass_flowing_sand:|- Машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
-|:hourglass_flowing_sand:|- Проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
+|:hourglass_flowing_sand:|- обработка больших данных|[Coursera](https://www.coursera.org/learn/big-data-processing/home/welcome)||
+|:hourglass_flowing_sand:|- машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
+|:hourglass_flowing_sand:|- проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
 ||**Kaggle Courses**|||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|- Python|[Kaggle](https://www.kaggle.com/learn/python)||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|- Pandas|[Kaggle](https://www.kaggle.com/learn/pandas)||
