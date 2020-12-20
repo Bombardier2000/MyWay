@@ -6,7 +6,7 @@
 ||Программа обучения|Платформа|Результат|
 |:-:|:-|:-:|:-:|
 |[:scroll:](https://stepik.org/cert/852774)|Введение в Data Science и машинное обучение|[Stepik](https://stepik.org/course/4852)||
-|:hourglass_flowing_sand:|**Специализация "Машинное обучение и анализ данных"**|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
+|:hourglass_flowing_sand:|**Специализация "Машинное обучение и анализ данных"** (МФТИ, Яндекс)|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
 |[:scroll:](https://www.coursera.org/account/accomplishments/records/8PEBN28YUXZC)|Математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/account/accomplishments/records/G75BKCHUUH2F)|Обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/account/accomplishments/records/ZULA5KY5GNBH)|Поиск структуры в данных|[Coursera](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)||
