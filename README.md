@@ -14,8 +14,8 @@
 |:hourglass_flowing_sand:|- Прикладные задачи анализа данных|[Coursera](https://www.coursera.org/learn/data-analysis-applications)||
 |:hourglass_flowing_sand:|- Анализ данных: финальный проект|[Coursera](https://www.coursera.org/learn/data-analysis-project)||
 |:hourglass_flowing_sand:|**Современное машинное обучение**|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
-|:hourglass_flowing_sand:|- Python для автоматизации и анализа данных, математика для анализа данных, машинное обучение, работа с большими данными, глубинное обучение|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
-|:hourglass_flowing_sand:|- итоговый проект|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
+|:hourglass_flowing_sand:|- Python для автоматизации и анализа данных, математика для анализа данных, машинное обучение, работа с большими данными, глубинное обучение|||
+|:hourglass_flowing_sand:|- итоговый проект|||
 |:hourglass_flowing_sand:|**Специалист по Data Science**|[Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist/)||
 |:hourglass_flowing_sand:|**Промышленное машинное обучение**|[Coursera](https://www.coursera.org/specializations/industrial-machine-learning)||
 |:hourglass_flowing_sand:|Обработка больших данных|[Coursera](https://www.coursera.org/learn/big-data-processing/home/welcome)||
@@ -24,12 +24,10 @@
 
 ## Наиболее интересные материалы
 
-### Библиотеки машинного обучения
+### Scikit-Learn
 
-#### Scikit-Learn
-
-##### Pipelines
+#### Pipelines
 ||Статьи, книги, ресурсы|Результат|
-|-|-|-|
-|:white_check_mark:|[Are you using Pipeline in Scikit-Learn?](https://towardsdatascience.com/are-you-using-pipeline-in-scikit-learn-ac4cd85cb27f)|
+|:-:|:-|:-:|
+|:heavy_check_mark:|[Are you using Pipeline in Scikit-Learn?](https://towardsdatascience.com/are-you-using-pipeline-in-scikit-learn-ac4cd85cb27f)|
 ||[Details on how you can use Data Pipelines to apply various operations on the data](https://github.com/ankitgoel1602/data-science/tree/master/data-pipeline])||
