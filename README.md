@@ -22,22 +22,22 @@
 |:hourglass_flowing_sand:|- Машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
 |:hourglass_flowing_sand:|- Проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
 ||**Kaggle Courses**|||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|Python|[Kaggle](https://www.kaggle.com/learn/python)||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|Pandas|[Kaggle]()||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-visualization)|Data Visualization|[Kaggle]()||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-cleaning)|Data Cleaning|[Kaggle]()||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intro-to-machine-learning)|Intro to Machine Learning|[Kaggle]()||
-|:hourglass_flowing_sand:|Intro to SQL|[Kaggle]()||
-|:hourglass_flowing_sand:|Advanced SQL|[Kaggle]()||
-|:hourglass_flowing_sand:|Feature Engineering|[Kaggle]()||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intermediate-machine-learning)|Intermediate Machine Learning|[Kaggle]()||
-|:hourglass_flowing_sand:|Machine Learning Explainability|[Kaggle]()||
-|:hourglass_flowing_sand:|Microchallenges|[Kaggle]()||
-|:hourglass_flowing_sand:|Intro to Deep Learning|[Kaggle]()||
-|:hourglass_flowing_sand:|Computer Vision|[Kaggle]()||
-|:hourglass_flowing_sand:|Geospatial Analysis|[Kaggle]()||
-|:hourglass_flowing_sand:|Natural Language Processing|[Kaggle]()||
-|:hourglass_flowing_sand:|Intro to Game AI and Reinforcement Learning|[Kaggle]()||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|- Python|[Kaggle](https://www.kaggle.com/learn/python)||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|- Pandas|[Kaggle](https://www.kaggle.com/learn/pandas)||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-visualization)|- Data Visualization|[Kaggle](https://www.kaggle.com/learn/data-visualization)||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-cleaning)|- Data Cleaning|[Kaggle](https://www.kaggle.com/learn/data-cleaning)||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intro-to-machine-learning)|- Intro to Machine Learning|[Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)||
+|:hourglass_flowing_sand:|- Intro to SQL|[Kaggle](https://www.kaggle.com/learn/intro-to-sql)||
+|:hourglass_flowing_sand:|- Advanced SQL|[Kaggle](https://www.kaggle.com/learn/advanced-sql)||
+|:hourglass_flowing_sand:|- Feature Engineering|[Kaggle](https://www.kaggle.com/learn/feature-engineering)||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intermediate-machine-learning)|- Intermediate Machine Learning|[Kaggle](https://www.kaggle.com/learn/certification/denisabrashin/intermediate-machine-learning)||
+|:hourglass_flowing_sand:|- Machine Learning Explainability|[Kaggle](https://www.kaggle.com/learn/machine-learning-explainability)||
+|:hourglass_flowing_sand:|- Microchallenges|[Kaggle](https://www.kaggle.com/learn/microchallenges)||
+|:hourglass_flowing_sand:|- Intro to Deep Learning|[Kaggle](https://www.kaggle.com/learn/intro-to-deep-learning)||
+|:hourglass_flowing_sand:|- Computer Vision|[Kaggle](https://www.kaggle.com/learn/computer-vision)||
+|:hourglass_flowing_sand:|- Geospatial Analysis|[Kaggle](https://www.kaggle.com/learn/geospatial-analysis)||
+|:hourglass_flowing_sand:|- Natural Language Processing|[Kaggle](https://www.kaggle.com/learn/natural-language-processing)||
+|:hourglass_flowing_sand:|- Intro to Game AI and Reinforcement Learning|[Kaggle](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)||
 
 ## Наиболее интересные материалы
 
