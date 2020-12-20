@@ -5,7 +5,7 @@
 
 ||Программа обучения|Платформа|Результат|
 
-| <!-- -->    | <!-- -->    |
+| <!-- -->    | <!-- -->    | <!-- -->    | <!-- -->    |
 |:-:|:-|:-:|:-:|
 |[:scroll:](https://stepik.org/cert/852774)|**Введение в Data Science и машинное обучение** ([Институт биоинформатики](https://bioinf.me/))|[Stepik](https://stepik.org/course/4852)||
 |:hourglass_flowing_sand:|**Специализация "Машинное обучение и анализ данных"** ([МФТИ](https://mipt.ru/), [Яндекс](https://yandex.ru/online-courses/))|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
