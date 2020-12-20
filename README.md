@@ -18,9 +18,9 @@
 |:hourglass_flowing_sand:|- итоговый проект|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
 |:hourglass_flowing_sand:|**Специалист по Data Science**|[Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist/)||
 |:hourglass_flowing_sand:|**Промышленное машинное обучение**|[Coursera](https://www.coursera.org/specializations/industrial-machine-learning)||
-|:hourglass_flowing_sand:|Обработка больших данных|[Coursera]https://www.coursera.org/learn/big-data-processing/home/welcome)||
-|:hourglass_flowing_sand:|Машинное обучение на больших данных|[Coursera]https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
-|:hourglass_flowing_sand:|Проектирование и реализация систем машинного обучения|[Coursera]https://www.coursera.org/learn/machine-learning-design/home/welcome)||
+|:hourglass_flowing_sand:|Обработка больших данных|[Coursera](https://www.coursera.org/learn/big-data-processing/home/welcome)||
+|:hourglass_flowing_sand:|Машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
+|:hourglass_flowing_sand:|Проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
 
 ## Библиотеки машинного обучения
 
