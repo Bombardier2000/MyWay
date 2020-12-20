@@ -23,22 +23,22 @@
 |:hourglass_flowing_sand:|- Проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
 
 ||**Kaggle Courses**|||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|Python||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|Pandas||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-visualization)|Data Visualization||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-cleaning)|Data Cleaning||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intro-to-machine-learning)|Intro to Machine Learning||
-|:hourglass_flowing_sand:|Intro to SQL||
-|:hourglass_flowing_sand:|Advanced SQL||
-|:hourglass_flowing_sand:|Feature Engineering||
-|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intermediate-machine-learning)|Intermediate Machine Learning||
-|:hourglass_flowing_sand:|Machine Learning Explainability||
-|:hourglass_flowing_sand:|Microchallenges||
-|:hourglass_flowing_sand:|Intro to Deep Learning||
-|:hourglass_flowing_sand:|Computer Vision||
-|:hourglass_flowing_sand:|Geospatial Analysis||
-|:hourglass_flowing_sand:|Natural Language Processing||
-|:hourglass_flowing_sand:|Intro to Game AI and Reinforcement Learning||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|Python|||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|Pandas|||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-visualization)|Data Visualization|||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-cleaning)|Data Cleaning|||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intro-to-machine-learning)|Intro to Machine Learning|||
+|:hourglass_flowing_sand:|Intro to SQL|||
+|:hourglass_flowing_sand:|Advanced SQL|||
+|:hourglass_flowing_sand:|Feature Engineering|||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intermediate-machine-learning)|Intermediate Machine Learning|||
+|:hourglass_flowing_sand:|Machine Learning Explainability|||
+|:hourglass_flowing_sand:|Microchallenges|||
+|:hourglass_flowing_sand:|Intro to Deep Learning|||
+|:hourglass_flowing_sand:|Computer Vision|||
+|:hourglass_flowing_sand:|Geospatial Analysis|||
+|:hourglass_flowing_sand:|Natural Language Processing|||
+|:hourglass_flowing_sand:|Intro to Game AI and Reinforcement Learning|||
 
 ## Наиболее интересные материалы
 
