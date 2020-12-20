@@ -16,7 +16,7 @@
 |:hourglass_flowing_sand:|**Современное машинное обучение**|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
 |:hourglass_flowing_sand:|- Python для автоматизации и анализа данных, математика для анализа данных, машинное обучение, работа с большими данными, глубинное обучение|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
 |:hourglass_flowing_sand:|- итоговый проект|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
-|:hourglass_flowing_sand:|**Data Science**|[Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist/)||
+|:hourglass_flowing_sand:|**Специалист по Data Science**|[Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist/)||
 
 ## Библиотеки машинного обучения
 
