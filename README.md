@@ -38,6 +38,7 @@
 |:hourglass_flowing_sand:|- Geospatial Analysis|[Kaggle](https://www.kaggle.com/learn/geospatial-analysis)||
 |:hourglass_flowing_sand:|- Natural Language Processing|[Kaggle](https://www.kaggle.com/learn/natural-language-processing)||
 |:hourglass_flowing_sand:|- Intro to Game AI and Reinforcement Learning|[Kaggle](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)||
+|[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/326035.png)|**Основы ANSI SQL**|["Специалист" МГТУ](https://www.specialist.ru/)||
 
 ## Наиболее интересные материалы
 
