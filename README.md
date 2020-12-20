@@ -13,6 +13,9 @@
 |:hourglass_flowing_sand:|- Построение выводов по данным|[Coursera](https://www.coursera.org/learn/stats-for-data-analysis?specialization=machine-learning-data-analysis)||
 |:hourglass_flowing_sand:|- Прикладные задачи анализа данных|[Coursera](https://www.coursera.org/learn/data-analysis-applications)||
 |:hourglass_flowing_sand:|- Анализ данных: финальный проект|[Coursera](https://www.coursera.org/learn/data-analysis-project)||
+|:hourglass_flowing_sand:|**Современное машинное обучение**|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
+|:hourglass_flowing_sand:|- Python для автоматизации и анализа данных, |[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
+|:hourglass_flowing_sand:|- Итоговый проект|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
 
 ## Библиотеки машинного обучения
 
