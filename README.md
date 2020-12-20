@@ -4,7 +4,7 @@
 ## Курсы, сертификаты
 ||Название|Результат|
 |-|-|-|
-|:heavy_check_mark:|Введение в Data Science и машинное обучение ([Stepik](https://stepik.org/course/4852))|[:scroll:](https://stepik.org/cert/852774)|
+|[:scroll:](https://stepik.org/cert/852774)|Введение в Data Science и машинное обучение ([Stepik](https://stepik.org/course/4852))||
 ||**Специализация "Машинное обучение и анализ данных"** ([Coursera](https://www.coursera.org/learn/mathematics-and-python))||
 ||[Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
 
