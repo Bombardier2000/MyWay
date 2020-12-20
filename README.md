@@ -6,7 +6,7 @@
 |<!-- -->|<!-- -->|<!-- -->|<!-- -->|
 |:-:|:-|:-:|:-:|
 |[:scroll:](https://stepik.org/cert/852774)|**Введение в Data Science и машинное обучение** ([Институт биоинформатики](https://bioinf.me/))|[Stepik](https://stepik.org/course/4852)||
-|:hourglass_flowing_sand:|**Специализация "Машинное обучение и анализ данных"** ([МФТИ](https://mipt.ru/), [Яндекс](https://yandex.ru/online-courses/))|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
+|:hourglass_flowing_sand:|**Машинное обучение и анализ данных** ([МФТИ](https://mipt.ru/), [Яндекс](https://yandex.ru/online-courses/))|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
 |[:scroll:](https://www.coursera.org/account/accomplishments/records/8PEBN28YUXZC)|- Математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/account/accomplishments/records/G75BKCHUUH2F)|- Обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/account/accomplishments/records/ZULA5KY5GNBH)|- Поиск структуры в данных|[Coursera](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)||
@@ -21,6 +21,24 @@
 |:hourglass_flowing_sand:|- Обработка больших данных|[Coursera](https://www.coursera.org/learn/big-data-processing/home/welcome)||
 |:hourglass_flowing_sand:|- Машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
 |:hourglass_flowing_sand:|- Проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
+
+||**Kaggle Courses**|||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|Python||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|Pandas||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-visualization)|Data Visualization||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-cleaning)|Data Cleaning||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intro-to-machine-learning)|Intro to Machine Learning||
+|:hourglass_flowing_sand:|Intro to SQL||
+|:hourglass_flowing_sand:|Advanced SQL||
+|:hourglass_flowing_sand:|Feature Engineering||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intermediate-machine-learning)|Intermediate Machine Learning||
+|:hourglass_flowing_sand:|Machine Learning Explainability||
+|:hourglass_flowing_sand:|Microchallenges||
+|:hourglass_flowing_sand:|Intro to Deep Learning||
+|:hourglass_flowing_sand:|Computer Vision||
+|:hourglass_flowing_sand:|Geospatial Analysis||
+|:hourglass_flowing_sand:|Natural Language Processing||
+|:hourglass_flowing_sand:|Intro to Game AI and Reinforcement Learning||
 
 ## Наиболее интересные материалы
 
