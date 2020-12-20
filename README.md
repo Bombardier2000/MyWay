@@ -7,9 +7,9 @@
 |:-:|:-|:-:|:-:|
 |[:scroll:](https://stepik.org/cert/852774)|**Введение в Data Science и машинное обучение** ([Институт биоинформатики](https://bioinf.me/))|[Stepik](https://stepik.org/course/4852)||
 |:hourglass_flowing_sand:|**Машинное обучение и анализ данных** ([МФТИ](https://mipt.ru/), [Яндекс](https://yandex.ru/online-courses/))|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
-|[:scroll:](https://www.coursera.org/account/accomplishments/records/8PEBN28YUXZC)|- Математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
-|[:scroll:](https://www.coursera.org/account/accomplishments/records/G75BKCHUUH2F)|- Обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
-|[:scroll:](https://www.coursera.org/account/accomplishments/records/ZULA5KY5GNBH)|- Поиск структуры в данных|[Coursera](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)||
+|[:scroll:](https://www.coursera.org/account/accomplishments/records/8PEBN28YUXZC)|- математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
+|[:scroll:](https://www.coursera.org/account/accomplishments/records/G75BKCHUUH2F)|- обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
+|[:scroll:](https://www.coursera.org/account/accomplishments/records/ZULA5KY5GNBH)|- поиск структуры в данных|[Coursera](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)||
 |:hourglass_flowing_sand:|- построение выводов по данным|[Coursera](https://www.coursera.org/learn/stats-for-data-analysis?specialization=machine-learning-data-analysis)||
 |:hourglass_flowing_sand:|- прикладные задачи анализа данных|[Coursera](https://www.coursera.org/learn/data-analysis-applications)||
 |:hourglass_flowing_sand:|- анализ данных: финальный проект|[Coursera](https://www.coursera.org/learn/data-analysis-project)||
