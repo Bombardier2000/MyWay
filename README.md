@@ -21,7 +21,6 @@
 |:hourglass_flowing_sand:|- Обработка больших данных|[Coursera](https://www.coursera.org/learn/big-data-processing/home/welcome)||
 |:hourglass_flowing_sand:|- Машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
 |:hourglass_flowing_sand:|- Проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
-
 ||**Kaggle Courses**|||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|Python|||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|Pandas|||
