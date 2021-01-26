@@ -7,20 +7,21 @@
 |:-:|:-|:-:|:-:|
 |[:scroll:](https://stepik.org/cert/852774)|**Введение в Data Science и машинное обучение** ([Институт биоинформатики](https://bioinf.me/))|[Stepik](https://stepik.org/course/4852)||
 |:hourglass_flowing_sand:|**Машинное обучение и анализ данных** ([МФТИ](https://mipt.ru/), [Яндекс](https://yandex.ru/online-courses/))|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
-|[:scroll:](https://www.coursera.org/account/accomplishments/records/8PEBN28YUXZC)|- математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
-|[:scroll:](https://www.coursera.org/account/accomplishments/records/G75BKCHUUH2F)|- обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
-|[:scroll:](https://www.coursera.org/account/accomplishments/records/ZULA5KY5GNBH)|- поиск структуры в данных|[Coursera](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)||
+|[:scroll:](https://www.coursera.org/verify/8PEBN28YUXZC)|- математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
+|[:scroll:](https://www.coursera.org/verify/G75BKCHUUH2F)|- обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
+|[:scroll:](https://www.coursera.org/verify/ZULA5KY5GNBH)|- поиск структуры в данных|[Coursera](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)||
 |:hourglass_flowing_sand:|- построение выводов по данным|[Coursera](https://www.coursera.org/learn/stats-for-data-analysis?specialization=machine-learning-data-analysis)||
 |:hourglass_flowing_sand:|- прикладные задачи анализа данных|[Coursera](https://www.coursera.org/learn/data-analysis-applications)||
 |:hourglass_flowing_sand:|- анализ данных: финальный проект|[Coursera](https://www.coursera.org/learn/data-analysis-project)||
 |:hourglass_flowing_sand:|**Современное машинное обучение**|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
 |:hourglass_flowing_sand:|- Python для автоматизации и анализа данных, математика для анализа данных, машинное обучение, работа с большими данными, глубинное обучение|||
 |:hourglass_flowing_sand:|- итоговый проект|||
-|:hourglass_flowing_sand:|**Специалист по Data Science**|[Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist/)|[:octocat:](https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum-2020)|
+|:raised_eyebrow:|**Специалист по Data Science**|[Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist/)|[:octocat:](https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum-2020)|
 |:hourglass_flowing_sand:|**Промышленное машинное обучение**|[Coursera](https://www.coursera.org/specializations/industrial-machine-learning)||
 |:hourglass_flowing_sand:|- обработка больших данных|[Coursera](https://www.coursera.org/learn/big-data-processing/home/welcome)||
-|:hourglass_flowing_sand:|- машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
+|[:scroll:](https://www.coursera.org/verify/354TRWJDMMGJ)|- машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
 |:hourglass_flowing_sand:|- проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
+|:hourglass_flowing_sand:|**Hadoop. Система для обработки больших объемов данных**|[Stepik](https://stepik.org/150)||
 ||**Kaggle Courses**|||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|- Python|[Kaggle](https://www.kaggle.com/learn/python)||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|- Pandas|[Kaggle](https://www.kaggle.com/learn/pandas)||
@@ -39,6 +40,7 @@
 |:hourglass_flowing_sand:|- Natural Language Processing|[Kaggle](https://www.kaggle.com/learn/natural-language-processing)||
 |:hourglass_flowing_sand:|- Intro to Game AI and Reinforcement Learning|[Kaggle](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/326035.png)|**Основы ANSI SQL**|[МГТУ](https://www.specialist.ru/)||
+|[:scroll:](https://stepik.org/cert/867697)|**Интерактивный тренажер по SQL** (ДВФУ)|[Stepik](https://stepik.org/course/63054)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/326212.png)|**Программирование на Delphi**|[МГТУ](https://www.specialist.ru/)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/1302698.png)|**Программирование на языке Pascal**|[МГТУ](https://www.specialist.ru/)||
 |:hourglass_flowing_sand:|**Эпоха цифрового развития: основы цифровой трансформации** ([РАНХиГС](https://cdto.ranepa.ru/))|[Stepik](https://stepik.org/course/65359)||
