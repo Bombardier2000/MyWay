@@ -43,7 +43,7 @@
 |[:scroll:](https://stepik.org/cert/867697)|**Интерактивный тренажер по SQL** (ДВФУ)|[Stepik](https://stepik.org/course/63054)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/326212.png)|**Программирование на Delphi**|[МГТУ](https://www.specialist.ru/)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/1302698.png)|**Программирование на языке Pascal**|[МГТУ](https://www.specialist.ru/)||
-|:hourglass_flowing_sand:|**Эпоха цифрового развития: основы цифровой трансформации** ([РАНХиГС](https://cdto.ranepa.ru/))|[Stepik](https://stepik.org/course/65359)||
+|[:scroll:](https://stepik.org/cert/867697)|**Эпоха цифрового развития: основы цифровой трансформации** ([РАНХиГС](https://cdto.ranepa.ru/))|[Stepik](https://stepik.org/course/65359)||
 
 ## Наиболее интересные материалы
 
