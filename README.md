@@ -13,9 +13,12 @@
 |:hourglass_flowing_sand:|- построение выводов по данным|[Coursera](https://www.coursera.org/learn/stats-for-data-analysis?specialization=machine-learning-data-analysis)||
 |:hourglass_flowing_sand:|- прикладные задачи анализа данных|[Coursera](https://www.coursera.org/learn/data-analysis-applications)||
 |:hourglass_flowing_sand:|- анализ данных: финальный проект|[Coursera](https://www.coursera.org/learn/data-analysis-project)||
-|:hourglass_flowing_sand:|**Современное машинное обучение**|[ВШЭ](https://cs.hse.ru/dpo/mlonline)||
-|:hourglass_flowing_sand:|- Python для автоматизации и анализа данных, математика для анализа данных, машинное обучение, работа с большими данными, глубинное обучение|||
-|:hourglass_flowing_sand:|- итоговый проект|||
+|:hourglass_flowing_sand:|**Машинное обучение: от статистики до нейросетей** ([ВШЭ](https://www.hse.ru/))|[Coursera](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)||
+|[:scroll:](https://www.coursera.org/verify/FMFATWWQNBCE)|- основы машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-foundations?specialization=machine-learning-from-statistics-to-neural-networks)||
+|:hourglass_flowing_sand:|- продвинутые методы машинного обучения|[Coursera](https://www.coursera.org/learn/advanced-machine-learning-methods?specialization=machine-learning-from-statistics-to-neural-networks)||
+|:hourglass_flowing_sand:|- сбор и анализ данных в Python|[Coursera](https://www.coursera.org/learn/data-collection-and-analysis-in-python?specialization=machine-learning-from-statistics-to-neural-networks)||
+|:hourglass_flowing_sand:|- статистические методы анализа данных|[Coursera](https://www.coursera.org/learn/data-analysis-statistical-methods?specialization=machine-learning-from-statistics-to-neural-networks)||
+|:hourglass_flowing_sand:|- математическая статистика и А/В тестирование|[Coursera](https://www.coursera.org/learn/mathematical-statistics-and-ab-testing)||
 |:raised_eyebrow:|**Специалист по Data Science**|[Яндекс.Практикум](https://praktikum.yandex.ru/data-scientist/)|[:octocat:](https://github.com/Bombardier2000/Data-Science-Yandex-Praktikum-2020)|
 |:hourglass_flowing_sand:|**Промышленное машинное обучение**|[Coursera](https://www.coursera.org/specializations/industrial-machine-learning)||
 |:hourglass_flowing_sand:|- обработка больших данных|[Coursera](https://www.coursera.org/learn/big-data-processing/home/welcome)||
@@ -44,13 +47,3 @@
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/326212.png)|**Программирование на Delphi**|[МГТУ](https://www.specialist.ru/)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/1302698.png)|**Программирование на языке Pascal**|[МГТУ](https://www.specialist.ru/)||
 |[:scroll:](https://stepik.org/cert/867697)|**Эпоха цифрового развития: основы цифровой трансформации** ([РАНХиГС](https://cdto.ranepa.ru/))|[Stepik](https://stepik.org/course/65359)||
-
-## Наиболее интересные материалы
-
-### Scikit-Learn
-
-#### Pipelines
-||Статьи, книги, ресурсы|Результат|
-|:-:|:-|:-:|
-|:heavy_check_mark:|[Are you using Pipeline in Scikit-Learn?](https://towardsdatascience.com/are-you-using-pipeline-in-scikit-learn-ac4cd85cb27f)|
-||[Details on how you can use Data Pipelines to apply various operations on the data](https://github.com/ankitgoel1602/data-science/tree/master/data-pipeline])||
