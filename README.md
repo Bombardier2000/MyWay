@@ -24,7 +24,7 @@
 |:hourglass_flowing_sand:|- обработка больших данных|[Coursera](https://www.coursera.org/learn/big-data-processing/home/welcome)||
 |[:scroll:](https://www.coursera.org/verify/354TRWJDMMGJ)|- машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
 |:hourglass_flowing_sand:|- проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
-|:hourglass_flowing_sand:|**Hadoop. Система для обработки больших объемов данных**|[Stepik](https://stepik.org/150)||
+|[:scroll:](https://stepik.org/cert/886407)|**Hadoop. Система для обработки больших объемов данных**|[Stepik](https://stepik.org/150)||
 ||**Kaggle Courses**|||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|- Python|[Kaggle](https://www.kaggle.com/learn/python)||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|- Pandas|[Kaggle](https://www.kaggle.com/learn/pandas)||
