@@ -31,7 +31,7 @@
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-visualization)|- Data Visualization|[Kaggle](https://www.kaggle.com/learn/data-visualization)||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/data-cleaning)|- Data Cleaning|[Kaggle](https://www.kaggle.com/learn/data-cleaning)||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intro-to-machine-learning)|- Intro to Machine Learning|[Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)||
-|:hourglass_flowing_sand:|- Intro to SQL|[Kaggle](https://www.kaggle.com/learn/intro-to-sql)||
+|[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intro-to-sql)|- Intro to SQL|[Kaggle](https://www.kaggle.com/learn/intro-to-sql)||
 |:hourglass_flowing_sand:|- Advanced SQL|[Kaggle](https://www.kaggle.com/learn/advanced-sql)||
 |:hourglass_flowing_sand:|- Feature Engineering|[Kaggle](https://www.kaggle.com/learn/feature-engineering)||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/intermediate-machine-learning)|- Intermediate Machine Learning|[Kaggle](https://www.kaggle.com/learn/certification/denisabrashin/intermediate-machine-learning)||
