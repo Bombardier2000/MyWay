@@ -10,7 +10,7 @@
 |[:scroll:](https://www.coursera.org/verify/8PEBN28YUXZC)|- математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/verify/G75BKCHUUH2F)|- обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/verify/ZULA5KY5GNBH)|- поиск структуры в данных|[Coursera](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)||
-|:hourglass_flowing_sand:|- построение выводов по данным|[Coursera](https://www.coursera.org/learn/stats-for-data-analysis?specialization=machine-learning-data-analysis)||
+|[:scroll:](https://www.coursera.org/verify/74T865KUU825)|- построение выводов по данным|[Coursera](https://www.coursera.org/learn/stats-for-data-analysis?specialization=machine-learning-data-analysis)||
 |:hourglass_flowing_sand:|- прикладные задачи анализа данных|[Coursera](https://www.coursera.org/learn/data-analysis-applications)||
 |:hourglass_flowing_sand:|- анализ данных: финальный проект|[Coursera](https://www.coursera.org/learn/data-analysis-project)||
 |:hourglass_flowing_sand:|**Машинное обучение: от статистики до нейросетей** ([ВШЭ](https://www.hse.ru/))|[Coursera](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)||
