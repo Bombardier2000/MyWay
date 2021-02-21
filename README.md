@@ -5,7 +5,7 @@
 
 |<!-- -->|<!-- -->|<!-- -->|<!-- -->|
 |:-:|:-|:-:|:-:|
-|[:scroll:](https://stepik.org/cert/852774)|**Введение в Data Science и машинное обучение** ([Институт биоинформатики](https://bioinf.me/))|[Stepik](https://stepik.org/course/4852)||
+|[:scroll:](https://www.coursera.org/verify/WLE2DZKZED5F)|**Машинное обучение в финансах** ([КУ Сбербанка](https://sberbank-university.ru/))|[Coursera](https://www.coursera.org/learn/machinnoe-obuchenie-v-finansah)||
 |:hourglass_flowing_sand:|**Машинное обучение и анализ данных** ([МФТИ](https://mipt.ru/), [Яндекс](https://yandex.ru/online-courses/))|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
 |[:scroll:](https://www.coursera.org/verify/8PEBN28YUXZC)|- математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/verify/G75BKCHUUH2F)|- обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
@@ -25,6 +25,7 @@
 |[:scroll:](https://www.coursera.org/verify/354TRWJDMMGJ)|- машинное обучение на больших данных|[Coursera](https://www.coursera.org/learn/machine-learning-on-big-data/home/welcome)||
 |:hourglass_flowing_sand:|- проектирование и реализация систем машинного обучения|[Coursera](https://www.coursera.org/learn/machine-learning-design/home/welcome)||
 |[:scroll:](https://stepik.org/cert/886407)|**Hadoop. Система для обработки больших объемов данных**|[Stepik](https://stepik.org/150)||
+|[:scroll:](https://stepik.org/cert/852774)|**Введение в Data Science и машинное обучение** ([Институт биоинформатики](https://bioinf.me/))|[Stepik]
 ||**Kaggle Courses**|||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/python)|- Python|[Kaggle](https://www.kaggle.com/learn/python)||
 |[:scroll:](https://www.kaggle.com/learn/certification/denisabrashin/pandas)|- Pandas|[Kaggle](https://www.kaggle.com/learn/pandas)||
