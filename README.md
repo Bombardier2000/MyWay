@@ -5,7 +5,7 @@
 
 |<!-- -->|<!-- -->|<!-- -->|<!-- -->|
 |:-:|:-|:-:|:-:|
-|[:scroll:](https://www.coursera.org/verify/WLE2DZKZED5F)|**Машинное обучение в финансах** ([КУ Сбербанка](https://sberbank-university.ru/))|[Coursera](https://www.coursera.org/learn/machinnoe-obuchenie-v-finansah)||
+|[:scroll:](https://www.coursera.org/verify/WLE2DZKZED5F)|**Машинное обучение в финансах** ([СберУниверситет](https://sberbank-university.ru/))|[Coursera](https://www.coursera.org/learn/machinnoe-obuchenie-v-finansah)||
 |:hourglass_flowing_sand:|**Машинное обучение и анализ данных** ([МФТИ](https://mipt.ru/), [Яндекс](https://yandex.ru/online-courses/))|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
 |[:scroll:](https://www.coursera.org/verify/8PEBN28YUXZC)|- математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
 |[:scroll:](https://www.coursera.org/verify/G75BKCHUUH2F)|- обучение на размеченных данных|[Coursera](https://www.coursera.org/learn/supervised-learning?specialization=machine-learning-data-analysis)||
