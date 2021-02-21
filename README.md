@@ -45,6 +45,7 @@
 |:hourglass_flowing_sand:|- Intro to Game AI and Reinforcement Learning|[Kaggle](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/326035.png)|**Основы ANSI SQL**|[МГТУ](https://www.specialist.ru/)||
 |[:scroll:](https://stepik.org/cert/867697)|**Интерактивный тренажер по SQL** (ДВФУ)|[Stepik](https://stepik.org/course/63054)||
+|[:scroll:](https://stepik.org/cert/897507)|**Программирование на Python** ([Институт биоинформатики](https://bioinf.me/))|[Stepik](https://stepik.org/course/67)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/326212.png)|**Программирование на Delphi**|[МГТУ](https://www.specialist.ru/)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/1302698.png)|**Программирование на языке Pascal**|[МГТУ](https://www.specialist.ru/)||
 |[:scroll:](https://stepik.org/cert/867697)|**Эпоха цифрового развития: основы цифровой трансформации** ([РАНХиГС](https://cdto.ranepa.ru/))|[Stepik](https://stepik.org/course/65359)||
