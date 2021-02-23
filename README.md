@@ -48,4 +48,4 @@
 |[:scroll:](https://stepik.org/cert/897507)|**Программирование на Python** ([Институт биоинформатики](https://bioinf.me/))|[Stepik](https://stepik.org/course/67)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/326212.png)|**Программирование на Delphi**|[МГТУ](https://www.specialist.ru/)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/1302698.png)|**Программирование на языке Pascal**|[МГТУ](https://www.specialist.ru/)||
-|[:scroll:](https://stepik.org/cert/867697)|**Эпоха цифрового развития: основы цифровой трансформации** ([РАНХиГС](https://cdto.ranepa.ru/))|[Stepik](https://stepik.org/course/65359)||
+|[:scroll:](https://stepik.org/cert/863274)|**Эпоха цифрового развития: основы цифровой трансформации** ([РАНХиГС](https://cdto.ranepa.ru/))|[Stepik](https://stepik.org/course/65359)||
