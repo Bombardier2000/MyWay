@@ -6,7 +6,10 @@
 |<!-- -->|<!-- -->|<!-- -->|<!-- -->|
 |:-:|:-|:-:|:-:|
 |:hourglass_flowing_sand:|**Machine Learning Engineering for Production (MLOps)** ([DeepLearning.AI](https://www.deeplearning.ai/programs/))|[Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)||
-|[:scroll:](https://www.coursera.org/verify/233MDYU72L84)|- Introduction to Machine Learning in Production|[Coursera](https://www.coursera.org/learn/introduction-to-machine-learning-in-production/)||
+|[:scroll:](https://www.coursera.org/verify/233MDYU72L84)|- Introduction to Machine Learning in Production|[Coursera](https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops)||
+|:hourglass_flowing_sand:|- Machine Learning Data Lifecycle in Production|[Coursera](https://www.coursera.org/learn/machine-learning-data-lifecycle-in-production?specialization=machine-learning-engineering-for-production-mlops)||
+|:hourglass_flowing_sand:|- Machine Learning Modeling Pipelines in Production|[Coursera](https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production?specialization=machine-learning-engineering-for-production-mlops)||
+|:hourglass_flowing_sand:|- Deploying Machine Learning Models in Production|[Coursera](https://www.coursera.org/learn/deploying-machine-learning-models-in-production?specialization=machine-learning-engineering-for-production-mlops)||
 |[:scroll:](https://www.coursera.org/verify/WLE2DZKZED5F)|**Машинное обучение в финансах** ([СберУниверситет](https://sberbank-university.ru/))|[Coursera](https://www.coursera.org/learn/machinnoe-obuchenie-v-finansah)||
 |:hourglass_flowing_sand:|**Машинное обучение и анализ данных** ([МФТИ](https://mipt.ru/), [Яндекс](https://yandex.ru/online-courses/))|[Coursera](https://www.coursera.org/learn/mathematics-and-python)||
 |[:scroll:](https://www.coursera.org/verify/8PEBN28YUXZC)|- математика и Python для анализа данных|[Coursera](https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis)||
