@@ -48,6 +48,11 @@
 |:hourglass_flowing_sand:|- Geospatial Analysis|[Kaggle](https://www.kaggle.com/learn/geospatial-analysis)||
 |:hourglass_flowing_sand:|- Natural Language Processing|[Kaggle](https://www.kaggle.com/learn/natural-language-processing)||
 |:hourglass_flowing_sand:|- Intro to Game AI and Reinforcement Learning|[Kaggle](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)||
+|:hourglass_flowing_sand:|**Django for Everybody** ([University of Michigan](https://umich.edu/))|[Coursera](https://www.coursera.org/specializations/django)||
+|[:scroll:](https://www.coursera.org/verify/LMRSMC7FAF3R)|- Web Application Technologies and Django|[Coursera](https://www.coursera.org/learn/django-database-web-apps?specialization=django)||
+|:hourglass_flowing_sand:|- Building Web Applications in Django|[Coursera](https://www.coursera.org/learn/django-build-web-apps?specialization=django)||
+|:hourglass_flowing_sand:|- Django Features and Libraries|[Coursera](https://www.coursera.org/learn/django-features-libraries?specialization=django)||
+|:hourglass_flowing_sand:|- Using JavaScript, JQuery, and JSON in Django|[Coursera](https://www.coursera.org/learn/django-javascript-jquery-json?specialization=django)||
 |[:scroll:](https://cdn.specialist.ru/Content/Image/User/UserTestCert/326035.png)|**Основы ANSI SQL**|[МГТУ](https://www.specialist.ru/)||
 |[:scroll:](https://stepik.org/cert/867697)|**Интерактивный тренажер по SQL** (ДВФУ)|[Stepik](https://stepik.org/course/63054)||
 |[:scroll:](https://stepik.org/cert/897507)|**Программирование на Python** ([Институт биоинформатики](https://bioinf.me/))|[Stepik](https://stepik.org/course/67)||
